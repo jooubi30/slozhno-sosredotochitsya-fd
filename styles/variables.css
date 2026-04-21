@@ -5,10 +5,12 @@
 
 :root {
   --main-font: 'IBM Plex mono';
-  --bg-image: url("../images/cover-image.png");
-  --bg-color: #7d7a9e;
+  --bg-image: url("../images/cover-image-dark.png");
+  --bg-color: #000332;
   --accent-color: #ff0070;
+  --header-accent-color: #ff0070;
   --header-title-color: #DB00FF;
+  --main-title-color: #ff0070;
   --title-decor-text-color: #000028;
   --main-text-color: #F1B2CE;
 }
